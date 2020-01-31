@@ -1,2 +1,1 @@
-docs(changelog)：update change log to RC.5
-docs(changelog)：update change log to RC.5
+feature(api): add group api add
